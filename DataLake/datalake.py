@@ -40,4 +40,15 @@ class DataLake:
         data       = self.retrieve_data()
         mean_value = data['value'].mean()
         std_value  = data['value'].std() 
+        return mean_value,std_value
+
+
+    def visualize_data(self):
+        data = self.retrieve_data()
+        plt.plot(data['timestamp'],data['value'])
+        plt.xlabel("timestamp")
+        plt.ylabel("value")
+        plt.title("Data Lake Visualization")
+        plt.savefig("output-1.jpg")
+        
         
