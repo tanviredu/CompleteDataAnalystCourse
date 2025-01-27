@@ -57,7 +57,12 @@ def MainEx():
         data = read_data(file_path)
         refined_data = perform_data_operation(data,"refined")
         refined_out_path = os.path.join(refined_path,item)
-        print(refined_data)
+        os.makedirs(os.path.dirname(refined_out_path),exist_ok=True)
+        refined_data.to_csv(refined_out_path)
+        curated_data = perform_data_operation(data,"curated")
+        curated_out_path = os.path.join(curated_path,item)
+        os.makedirs(os.path.dirname(curated_out_path),exist_ok=True)
+        refined_data.to_csv(curated_out_path)
 
 
 
