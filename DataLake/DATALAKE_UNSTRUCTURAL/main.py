@@ -66,4 +66,5 @@ def MainEx():
 
 
 
-MainEx()
+if __name__ == "__main__":
+    MainEx()
