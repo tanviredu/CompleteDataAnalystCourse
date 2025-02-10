@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a2a2329a-e32e-4205-8c08-2903584b2c6d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Imprisonment" />
+        <option value="$PROJECT_DIR$/Imprisonment.sql" />
+        <option value="$PROJECT_DIR$/../X04 - Fort Encargo Inmates2/Imprisonment2.sql" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1mWLsevyRnZIpSnh2LLdy91HxYv" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a2a2329a-e32e-4205-8c08-2903584b2c6d" name="Default Changelist" comment="" />
+      <created>1609604612179</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609604612179</updated>
+      <workItem from="1609604614160" duration="4750000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2316" y="611" key="#SQL_Dialects" timestamp="1609604973086">
+      <screen x="0" y="25" width="3840" height="1575" />
+    </state>
+    <state x="2316" y="611" key="#SQL_Dialects/0.25.3840.1575@0.25.3840.1575" timestamp="1609604973086" />
+  </component>
+</project>

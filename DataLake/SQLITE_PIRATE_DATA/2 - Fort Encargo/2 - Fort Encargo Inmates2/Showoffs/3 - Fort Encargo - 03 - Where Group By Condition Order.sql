@@ -1,0 +1,6 @@
+SELECT * FROM INMATES 
+WHERE 
+(CRIME = 'Smuggling' 
+OR 
+CRIME = 'Vandalism')
+AND DAYSUNTILRELEASE < 80

@@ -1,0 +1,3 @@
+UPDATE WORKER
+   SET LOAN = LOAN * 1.2
+ WHERE NAME = 'Morte';
